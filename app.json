@@ -15,92 +15,92 @@
   "env": {
        "API_ID": {
         "description": "Fill Api ID Take this value from My.telegram.org",
-        "value": "",
+        "value": "27812467",
         "required": true
       },
       "ALIVE_PIC": {
         "description": "your alive pic or video",
-        "value": "",
+        "value": "https://telegra.ph/file/6a767f67d852cb0296b98.jpg",
         "required": false
       },
       "API_HASH": {
         "description": "Fill Api hash Take this value from My.telegram.org",
-        "value": "",
+        "value": "49478b5b548c8fa0ba8162518d2a8185",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Bot token",
-        "value": "",
+        "value": "5872984924:AAHXAYBT1cesIe6puLr1c7yBpA7H-qzUs98",
         "required": true
       },
       "BOT_TOKEN2": {
         "description": "Bot token",
-        "value": "",
+        "value": "5922859816:AAFgFbbIimMIrZsnCRJwU32geE-2yOiEwiU",
         "required": true
       },
       "BOT_TOKEN3": {
         "description": "Bot token",
-        "value": "",
+        "value": "5902483020:AAFDjEljF7eA7ZAoilmqI49INwjJQqPOUk0",
         "required": true
       },
       "BOT_TOKEN4": {
         "description": "Bot token",
-        "value": "",
+        "value": "5982557404:AAGeDeDb2htIIPCNHoEWyi3wySUy13KGNAs",
         "required": true
       },
       "BOT_TOKEN5": {
         "description": "Bot token",
-        "value": "",
+        "value": "5939855198:AAHgAfFdSpUwZYN5O-ZOCQHPCPZiACK71Kc",
         "required": true
       },
       "BOT_TOKEN6": {
         "description": "Bot token",
-        "value": "",
+        "value": "5938963879:AAG9bLweBLVuVIsbgBvoWHwRJT_nNZh1jvE",
         "required": true
       },
       "BOT_TOKEN7": {
         "description": "Bot token",
-        "value": "",
+        "value": "5931437518:AAGoc3Qdf2qrJ3UCEw1ZDRQ-1TMMb-5MTf8",
         "required": true
       },
       "BOT_TOKEN8": {
         "description": "Bot token",
-        "value": "",
+        "value": "5785266265:AAFKPtLQU4yC2AH4jpnZPnpgP0T1gWnlrtY",
         "required": true
       },
       "BOT_TOKEN9": {
         "description": "Bot token",
-        "value": "",
+        "value": "5875053360:AAGNsYSk9EodOKHezVXqcPyio8KgBBhb4aI",
         "required": true
       },
       "BOT_TOKEN10": {
         "description": "Bot token",
-        "value": "",
+        "value": "5959943167:AAFmp5V13QqIb9b9DxSFOQ9uh7_SESobbpQ",
         "required": true
       },
       "SUDO_USER": {
             "description": "Sudo users id space by space or leave blank",
-            "value": "",
+            "value": "5862068291",
             "required": false
         },
       "OWNER_ID": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "2046092634",
             "required": true
         },
       "HEROKU_API_KEY": {
             "description": "Your Heroku api key to update your bot",
-            "value": "",
+            "value": "4e4feb17-8247-46a7-98d4-c83dd4d2f3cb",
             "required": false 
         },
        "HEROKU_APP_NAME": {
             "description": "Your app name to Update your bot",
-          "value": "",
+          "value": "ronnyspambottxd",
           "required": false  
         },
       "CMD_HNDLR": {
             "description": "Your Spam Userbot's Command handler",
-            "value": ".",
+            "value": "+",
             "required": false  
         }
     },
